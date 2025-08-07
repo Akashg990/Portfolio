@@ -103,7 +103,7 @@ function Animation() {
                   </Mullink>
                     
                     <TelegramIcon fontSize='large'sx={{color:"blue"}}/>
-                    <Mullink href="https://x.com/" target="_blank" rel="noopener noreferrer">
+                    <Mullink href="https://x.com/Akashg36" target="_blank" rel="noopener noreferrer">
                         <XIcon fontSize="large" sx={{color:"black"}}/>
                     </Mullink>
                     <Mullink href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer">
