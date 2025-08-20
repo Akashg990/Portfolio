@@ -91,7 +91,7 @@ function Hero() {
                 <strong>Place:</strong> Pune, India - 411039
               </Typography>
               <Typography sx={{marginTop:"1rem"}}>
-                <Button variant="contained" href="https://drive.google.com/file/d/12hzxFZtlxXqHpNi1n6sTyZK-y7WwHZt1/view?usp=drive_link" target="_blank">Resume</Button>
+                <Button variant="contained" href={process.env.REACT_APP_RESUME_LINK} target="_blank">Resume</Button>
               </Typography>
             </CardContent>
           </Grid>

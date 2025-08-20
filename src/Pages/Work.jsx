@@ -33,6 +33,7 @@ function Work()
                             <img src="spotify.jpg" alt="img"/>
                             <div className="p-work">
                                <p>Spotify </p>
+                               <Link href="https://github.com/Akashg990/Frontend/tree/main/spotify" target="_blank"/>
                                <EastIcon/>
                             </div>
                            
