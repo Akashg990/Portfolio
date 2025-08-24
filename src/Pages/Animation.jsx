@@ -67,7 +67,7 @@ function Animation() {
           zIndex: -1,
         }}
       >
-        <source src="/8084632-uhd_3840_2160_25fps.mp4" type="video/mp4" />
+        <source src="/159052-818026310.mp4" type="video/mp4" />
         Your browser does not support HTML5 video.
       </video>
 
@@ -99,12 +99,12 @@ function Animation() {
                      <LinkedInIcon fontSize='large' sx={{color:"blue"}}/>
                   </Mullink>
                   <Mullink href="https://github.com/Akashg990" target="_blank" rel="noopener  noreferrer">
-                      <GitHubIcon fontSize='large'sx={{color:"black"}}/>
+                      <GitHubIcon fontSize='large'sx={{color:"whitesmoke"}}/>
                   </Mullink>
                     
                     <TelegramIcon fontSize='large'sx={{color:"blue"}}/>
                     <Mullink href="https://x.com/Akashg36" target="_blank" rel="noopener noreferrer">
-                        <XIcon fontSize="large" sx={{color:"black"}}/>
+                        <XIcon fontSize="large" sx={{color:"whitesmoke"}}/>
                     </Mullink>
                     <Mullink href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer">
                           <InstagramIcon fontSize='large'sx={{color:"red"}}/>
